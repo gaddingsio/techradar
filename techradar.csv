@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-Java 17,adopt,languages,FALSE,"New Java LTS version"
+Java 17,adopt,languages & frameworks,FALSE,"New Java LTS version"
 React.js,adopt,languages & frameworks,FALSE,"My favorite frontend framework"
 Redux,hold,languages & frameworks,FALSE,"State handling for large scale react apps. Not my favorite anymore since the newer React versions"
 Spring Boot,adopt,languages & frameworks,FALSE,"If you live in a Spring ecosystem and are moving to microservices, Spring Boot is now the obvious choice. "
