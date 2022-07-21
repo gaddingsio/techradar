@@ -5,7 +5,7 @@ Redux,hold,languages & frameworks,FALSE,"State handling for large scale react ap
 Spring Boot,adopt,languages & frameworks,FALSE,"If you live in a Spring ecosystem and are moving to microservices, Spring Boot is now the obvious choice. "
 ECMAScript 6,adopt,languages & frameworks,TRUE,"The new version of JavaScript, addresses many of the concerns of the older versions currently in use. "
 GraphQL,assess,languages & frameworks,FALSE,"A protocol for remotely retrieving object graphs. Better suited than REST APIs for some use cases"
-OpenShift,adopt,platforms,"PaaS. Reduces the complexity of Kubernetes"
+OpenShift,adopt,platforms,FALSE,"PaaS. Reduces the complexity of Kubernetes"
 Heroku, hold, platforms, FALSE, "PaaS. Good for fast prototypes. But there are better alternatives e.g. in AWS now"
 Docker,adopt,platforms,FALSE,"The Docker image format makes it easier to achieve parity between development and production, making for reliable deployments. It is a natural fit in a microservices-style application as a packaging mechanism for self-contained services."
 Kubernetes,adopt,platforms,FALSE,"Default solution when deploying containers into a cluster of machines"
